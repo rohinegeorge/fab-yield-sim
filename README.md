@@ -31,3 +31,14 @@ Below is the stochastic simulation output tracking yield variance across cleanro
 ---
 
 ## 🚀 Installation & Setup
+```bash
+git clone [https://github.com/rohinegeorge/fab-yield-sim.git](https://github.com/rohinegeorge/fab-yield-sim.git)
+cd fab-yield-sim
+python3 src/main.py
+
+## 🚀 Installation & Setup
+```bash
+git clone https://github.com/rohinegeorge/fab-yield-sim.git
+cd fab-yield-sim
+python3 src/main.py
+```
